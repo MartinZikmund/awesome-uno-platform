@@ -13,25 +13,29 @@ List of **awesome resources** for developers using the Uno Platform for building
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [General](#general)
+- [Blogs](#blogs)
+- [Live coding](#live-coding)
+- [Open-source apps](#open-source-apps)
+- [Libraries](#libraries)
+- [Videos](#videos)
 
+## General
 
-## Section
+- [Uno Platform official website](https://platform.uno)
+- [Uno Platform Documentation home](https://platform.uno/docs/articles/intro.html)
 
-About this section. Optional. Keep this short and focus on the list.
+## Videos
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Blogs
 
+## Live coding
 
-## Another Section
+## Open-source apps
 
-### Subsection
+## Libraries
 
-- [List item](http://example.com)
-- [List item](http://example.com)
-
+## Videos
 
 ## Contribute
 
