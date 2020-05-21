@@ -1,4 +1,6 @@
-# Awesome Uno Platform [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Uno Platform 
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > List of awesome resources for developers using the Uno Platform for building cross-platform apps!
 
