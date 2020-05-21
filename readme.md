@@ -1,8 +1,14 @@
-# Awesome Uno Platform 
+<div align="center">
+	<div>
+		<img width="500" src="media/logo.png" alt="Awesome Uno Platform">
+	</div>
+	<br>
+	<a href="https://awesome.re">
+		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
+	</a>
+</div>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-> List of awesome resources for developers using the Uno Platform for building cross-platform apps!
+List of **awesome resources** for developers using the Uno Platform for building cross-platform apps on Android, iOS, macOS, WebAssembly and Windows!
 
 
 ## Contents
