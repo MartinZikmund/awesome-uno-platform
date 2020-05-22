@@ -31,6 +31,10 @@ List of **awesome resources** for developers using the Uno Platform for building
 ## Videos
 
 ## Blogs
+- [Official Uno Platform blog](https://platform.uno/blog/)
+- [Martin Zikmund blog](https://blog.mzikmund.com/category/development/uno-platform/) - Uno Platform blog posts by Martin Zikmund
+- [Nick's .NET Travels](https://nicksnettravels.builttoroam.com/tag/uno/) - Uno Platform blog posts by Nick Randolph
+
 
 ## Libraries
 
