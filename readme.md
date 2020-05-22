@@ -15,6 +15,9 @@ List of **awesome resources** for developers using the Uno Platform for building
 
 - [General](#general)
 - [Blogs](#blogs)
+- [Libraries](#libraries)
+  - [Toolkits](#toolkits)
+  - [MVVM](#mvvm)
 - [Live coding](#live-coding)
 - [Open-source apps](#open-source-apps)
 - [Libraries](#libraries)
@@ -29,11 +32,25 @@ List of **awesome resources** for developers using the Uno Platform for building
 
 ## Blogs
 
+## Libraries
+
+### Toolkits
+- [Windows Community Toolkit for Uno](https://github.com/unoplatform/Uno.WindowsCommunityToolkit)
+- [Telerik UI for Uno](https://github.com/unoplatform/Uno.Telerik.UI-For-UWP)
+
+### MVVM
+
+
+
 ## Live coding
 
 ## Open-source apps
+- [UADO](https://github.com/unoplatform/uado) - Azure DevOps backlog viewer
+- [Uno Calculator](https://github.com/unoplatform/calculator) - port of the Windows 10 Calculator
+- [Uno Playground](https://github.com/unoplatform/Uno.Playground) - Uno Playground app with UI samples
+- [Ch9](https://github.com/unoplatform/Uno.Ch9) - Channel 9 app
 
-## Libraries
+## Presentations
 
 ## Videos
 
