@@ -18,6 +18,7 @@ List of **awesome resources** for developers using the Uno Platform for building
 - [Libraries](#libraries)
   - [Toolkits](#toolkits)
   - [MVVM](#mvvm)
+  - [Compatibility](#compatibility)
 - [Live coding](#live-coding)
 - [Open-source apps](#open-source-apps)
 - [Libraries](#libraries)
@@ -34,6 +35,7 @@ List of **awesome resources** for developers using the Uno Platform for building
 - [Official Uno Platform blog](https://platform.uno/blog/)
 - [Martin Zikmund blog](https://blog.mzikmund.com/category/development/uno-platform/) - Uno Platform blog posts by Martin Zikmund
 - [Nick's .NET Travels](https://nicksnettravels.builttoroam.com/tag/uno/) - Uno Platform blog posts by Nick Randolph
+- [IObservable\<Opinion\>](https://ian.bebbs.co.uk/tags/uno-platform) - Uno Platform blog posts by Ian Bebbington
 
 
 ## Libraries
@@ -43,8 +45,10 @@ List of **awesome resources** for developers using the Uno Platform for building
 - [Telerik UI for Uno](https://github.com/unoplatform/Uno.Telerik.UI-For-UWP)
 
 ### MVVM
+- [MVx.Observable](https://www.nuget.org/packages/MVx.Observable/) - A (mostly) unopinionated, light-weight alternative to ReactiveUI provided as a library _not a framework_.
 
-
+### Compatibility
+ - [SignalR](https://docs.microsoft.com/en-us/aspnet/signalr/overview/getting-started/introduction-to-signalr) - [Cross-Platform Real-Time Communication with Uno & SignalR](https://ian.bebbs.co.uk/posts/UnoChat)
 
 ## Live coding
 
@@ -53,6 +57,7 @@ List of **awesome resources** for developers using the Uno Platform for building
 - [Uno Calculator](https://github.com/unoplatform/calculator) - port of the Windows 10 Calculator
 - [Uno Playground](https://github.com/unoplatform/Uno.Playground) - Uno Playground app with UI samples
 - [Ch9](https://github.com/unoplatform/Uno.Ch9) - Channel 9 app
+- [CO<sub>_duo_</sub>](https://github.com/ibebbs/CODuo) - Visualizing the environmental impact of current and forecast energy generation in the UK. Designed for use on both single and dual-screen devices.
 
 ## Presentations
 
