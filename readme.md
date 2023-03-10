@@ -7,7 +7,7 @@
 
 # Awesome Uno Platform  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[Uno Platform](https://platform.uno/) is an open-source UI Platform for building single-codebase applications for Windows, iOS, Android, WebAssembly, macOS, and Linux. 
+Uno Platform is an open-source UI Platform for building single-codebase applications for Windows, iOS, Android, WebAssembly, macOS, and Linux. 
 
 This is a list of **awesome resources** for users of Uno Platform. **If you find the list helpful, please make sure to ⭐  star it!**
 
@@ -32,10 +32,9 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 ## Repositories
 
-- [Uno Platform](https://github.com/unoplatform/uno) - Main repository of Uno Platform, including the full API surface of UWP/WinUI, the best place to submit issues and contribute
+- [Uno Platform](https://github.com/unoplatform/uno) - Main repository of Uno Platform, including the full API surface of UWP/WinUI, the best place to submit issues and contribute.
 - [Uno Themes](https://github.com/unoplatform/Uno.Themes) - Material and Cupertino theme library for Uno Platform apps. In addition, includes advanced controls based on Android/iOS developer guidelines.
 - [Uno Gallery](https://github.com/unoplatform/Uno.Gallery) - Controls and API gallery app. Includes live examples of most built-in controls and features along with easy to use code snippets.
-- [Uno Playground](https://github.com/unoplatform/Uno.Playground) - A live playground to easily try out Uno Platform without installing anything.
 - [Uno Samples](https://github.com/unoplatform/Uno.Samples) - A growing collection of code samples and snippets.
 - [Uno Core](https://github.com/unoplatform/Uno.Core) - Provides a set of reusable utilities and helpers. Used by the main Uno Platform repository.
 - [Uno UI Test](https://github.com/unoplatform/Uno.UITest) - Cross-platform UI testing library for Android, iOS and WebAssembly.
@@ -43,7 +42,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 ## Libraries
 
 ### Toolkits
-- [Windows Community Toolkit for Uno](https://github.com/unoplatform/Uno.WindowsCommunityToolkit)
+- [Windows Community Toolkit for Uno](https://github.com/unoplatform/Uno.WindowsCommunityToolkit) - Uno Platform fork of Microsoft Community Toolkit.
 - [Telerik UI for Uno](https://github.com/unoplatform/Uno.Telerik.UI-For-UWP)
 
 ### MVVM
@@ -59,19 +58,23 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 - [Jerome Laban's blog](https://jaylee.org/) - Blog of the CTO of Uno Platform.
 - [Martin Zikmund blog](https://blog.mzikmund.com/category/development/uno-platform/) - Uno Platform blog posts by Martin Zikmund.
 - [Nick's .NET Travels](https://nicksnettravels.builttoroam.com/tag/uno/) - Uno Platform blog posts by Nick Randolph.
-- [IObservable\<Opinion\>](https://ian.bebbs.co.uk/tags/uno-platform) - Uno Platform blog posts by Ian Bebbington
+- [IObservable\<Opinion\>](https://ian.bebbs.co.uk/tags/uno-platform) - Uno Platform blog posts by Ian Bebbington.
 
 ## Live coding
 
 - [Jerome Laban's Twitch](https://www.twitch.tv/jeromelaban) - Weekly Uno Platform live coding sessions (Tuesdays).
 - [Martin Zikmund's Twitch](https://www.twitch.tv/martinzikmund) - Mostly Uno Platform-themed live coding sessions.
 
+## Live apps
+
+- [Uno Playground](https://playground.platform.uno) - App which allows you to experiment with Uno Platform C# and XAML right from the browser.
+
 ## Open-source apps
-- [Uno Calculator](https://github.com/unoplatform/calculator) - port of the Windows 10 Calculator
-- [UADO](https://github.com/unoplatform/uado) - Azure DevOps backlog viewer
-- [Uno Playground](https://github.com/unoplatform/Uno.Playground) - Uno Playground app with UI samples
-- [Ch9](https://github.com/unoplatform/Uno.Ch9) - Channel 9 app
-- [CO<sub>_duo_</sub>](https://github.com/ibebbs/CODuo) - Visualizing the environmental impact of current and forecast energy generation in the UK. Designed for use on both single and dual-screen devices.
+- [Uno Calculator](https://github.com/unoplatform/calculator) - port of the Windows 10 Calculator.
+- [UADO](https://github.com/unoplatform/uado) - Azure DevOps backlog viewer.
+- [Uno Playground](https://github.com/unoplatform/Uno.Playground) - Uno Playground app with UI samples.
+- [Ch9](https://github.com/unoplatform/Uno.Ch9) - Channel 9 browser app.
+- [COduo](https://github.com/ibebbs/CODuo) - Visualizing the environmental impact of current and forecast energy generation in the UK. Designed for use on both single and dual-screen devices.
 
 ## Presentations
 
