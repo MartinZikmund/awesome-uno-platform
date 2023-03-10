@@ -25,7 +25,6 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 - [Open-source apps](#open-source-apps)
 - [Presentations](#presentations)
 - [Videos](#videos)
-- [Contribute](#contribute)
 
 ## General
 
@@ -79,6 +78,6 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 ## Videos
 
-## Contribute
+## Contributing
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Your contributions welcome! Please read the [contribution guidelines](contributing.md) before creating a pull request.
