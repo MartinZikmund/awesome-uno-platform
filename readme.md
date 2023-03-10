@@ -13,7 +13,6 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 ## Contents
 
-- [Contents](#contents)
 - [General](#general)
 - [Repositories](#repositories)
 - [Libraries](#libraries)
