@@ -33,13 +33,13 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 ## Repositories
 
-- [Uno Platform](https://github.com/unoplatform/uno) ![GitHub stars](https://img.shields.io/github/stars/unoplatform/uno?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/uno?cacheSeconds=86000)  - main repository of Uno Platform, including the full API surface of UWP/WinUI, the best place to submit issues and contribute
-- [Uno Themes](https://github.com/unoplatform/Uno.Themes) ![GitHub stars](https://img.shields.io/github/stars/unoplatform/Uno.Themes?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/Uno.Themes?cacheSeconds=86000) - Material and Cupertino theme library for Uno Platform apps. In addition, includes advanced controls based on Android/iOS developer guidelines.
-- [Uno Gallery](https://github.com/unoplatform/Uno.Gallery) ![GitHub stars](https://img.shields.io/github/stars/unoplatform/Uno.Gallery?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/Uno.Gallery?cacheSeconds=86000) - Controls and API gallery app. Includes live examples of most built-in controls and features along with easy to use code snippets.
-- [Uno Playground](https://github.com/unoplatform/Uno.Playground) ![GitHub stars](https://img.shields.io/github/stars/unoplatform/Uno.Playground?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/Uno.Playground?cacheSeconds=86000) - A live playground to easily try out Uno Platform without installing anything.
-- [Uno Samples](https://github.com/unoplatform/Uno.Samples) ![GitHub stars](https://img.shields.io/github/stars/unoplatform/Uno.Samples?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/Uno.Samples?cacheSeconds=86000) - A growing collection of code samples and snippets.
-- [Uno Core](https://github.com/unoplatform/Uno.Core) ![GitHub stars](https://img.shields.io/github/stars/unoplatform/Uno.Core?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/Uno.Core?cacheSeconds=86000) - Provides a set of reusable utilities and helpers. Used by the main Uno Platform repository.
-- [Uno UI Test](https://github.com/unoplatform/Uno.UITest) ![GitHub stars](https://img.shields.io/github/stars/unoplatform/Uno.UITest?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/Uno.UITest?cacheSeconds=86000) - Cross-platform UI testing library for Android, iOS and WebAssembly.
+- [Uno Platform](https://github.com/unoplatform/uno) - Main repository of Uno Platform, including the full API surface of UWP/WinUI, the best place to submit issues and contribute
+- [Uno Themes](https://github.com/unoplatform/Uno.Themes) - Material and Cupertino theme library for Uno Platform apps. In addition, includes advanced controls based on Android/iOS developer guidelines.
+- [Uno Gallery](https://github.com/unoplatform/Uno.Gallery) - Controls and API gallery app. Includes live examples of most built-in controls and features along with easy to use code snippets.
+- [Uno Playground](https://github.com/unoplatform/Uno.Playground) - A live playground to easily try out Uno Platform without installing anything.
+- [Uno Samples](https://github.com/unoplatform/Uno.Samples) - A growing collection of code samples and snippets.
+- [Uno Core](https://github.com/unoplatform/Uno.Core) - Provides a set of reusable utilities and helpers. Used by the main Uno Platform repository.
+- [Uno UI Test](https://github.com/unoplatform/Uno.UITest) - Cross-platform UI testing library for Android, iOS and WebAssembly.
 
 ## Libraries
 
