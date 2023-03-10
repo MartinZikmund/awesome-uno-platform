@@ -8,12 +8,14 @@
 	</a>
 </div>
 
-List of **awesome resources** for developers using the Uno Platform for building cross-platform apps on Android, iOS, macOS, WebAssembly and Windows!
+# Awesome Uno Platform
 
+[Uno Platform](https://platform.uno/) is an open-source UI Platform for building single-codebase applications for Windows, iOS, Android, WebAssembly, macOS, and Linux. 
+
+This is a list of **awesome resources** for users of Uno Platform. **If you find the list helpful, please make sure to ⭐  star it!**
 
 ## Contents
 
-- [Contents](#contents)
 - [General](#general)
 - [Repositories](#repositories)
 - [Libraries](#libraries)
@@ -26,7 +28,6 @@ List of **awesome resources** for developers using the Uno Platform for building
 - [Presentations](#presentations)
 - [Videos](#videos)
 - [Contribute](#contribute)
-- [License](#license)
 
 ## General
 
@@ -83,10 +84,3 @@ List of **awesome resources** for developers using the Uno Platform for building
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
-
-To the extent possible under law, Martin Zikmund has waived all copyright and
-related or neighboring rights to this work.
