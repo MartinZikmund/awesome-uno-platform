@@ -3,12 +3,9 @@
 		<img width="500" src="media/logo.png" alt="Awesome Uno Platform">
 	</div>
 	<br>
-	<a href="https://awesome.re">
-		<img src="https://awesome.re/badge.svg" alt="Awesome">
-	</a>
 </div>
 
-# Awesome Uno Platform
+# Awesome Uno Platform  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [Uno Platform](https://platform.uno/) is an open-source UI Platform for building single-codebase applications for Windows, iOS, Android, WebAssembly, macOS, and Linux. 
 
@@ -16,6 +13,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 ## Contents
 
+- [Contents](#contents)
 - [General](#general)
 - [Repositories](#repositories)
 - [Libraries](#libraries)
@@ -27,7 +25,6 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 - [Open-source apps](#open-source-apps)
 - [Presentations](#presentations)
 - [Videos](#videos)
-- [Contribute](#contribute)
 
 ## General
 
@@ -81,6 +78,6 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 ## Videos
 
-## Contribute
+## Contributing
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Your contributions welcome! Please read the [contribution guidelines](contributing.md) before creating a pull request.
