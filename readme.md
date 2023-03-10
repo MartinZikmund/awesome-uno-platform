@@ -20,10 +20,10 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
   - [MVVM](#mvvm)
   - [Compatibility](#compatibility)
 - [Blogs](#blogs)
-- [Live coding](#live-coding)
 - [Live apps](#live-apps)
 - [Open-source apps](#open-source-apps)
-- [Presentations](#presentations)
+- [Live coding](#live-coding)
+- [Talks](#talks)
 - [Videos](#videos)
 
 ## General
