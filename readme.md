@@ -21,6 +21,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
   - [Compatibility](#compatibility)
 - [Blogs](#blogs)
 - [Live coding](#live-coding)
+- [Live apps](#live-apps)
 - [Open-source apps](#open-source-apps)
 - [Presentations](#presentations)
 - [Videos](#videos)
@@ -51,7 +52,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 - [Microsoft MVVM Toolkit](https://docs.microsoft.com/en-us/windows/communitytoolkit/mvvm/introduction) - Modern, fast, and modular MVVM library.
 
 ### Compatibility
- - [SignalR](https://docs.microsoft.com/en-us/aspnet/signalr/overview/getting-started/introduction-to-signalr) - [Cross-Platform Real-Time Communication with Uno & SignalR](https://ian.bebbs.co.uk/posts/UnoChat)
+- [SignalR](https://docs.microsoft.com/en-us/aspnet/signalr/overview/getting-started/introduction-to-signalr) - [Cross-Platform Real-Time Communication with Uno & SignalR](https://ian.bebbs.co.uk/posts/UnoChat)
 
 ## Blogs
 - [Official Uno Platform blog](https://platform.uno/blog/)
@@ -70,7 +71,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 - [Uno Playground](https://playground.platform.uno) - App which allows you to experiment with Uno Platform C# and XAML right from the browser.
 
 ## Open-source apps
-- [Uno Calculator](https://github.com/unoplatform/calculator) - port of the Windows 10 Calculator.
+- [Uno Calculator](https://github.com/unoplatform/calculator) - Port of the Windows 10 Calculator.
 - [UADO](https://github.com/unoplatform/uado) - Azure DevOps backlog viewer.
 - [Uno Playground](https://github.com/unoplatform/Uno.Playground) - Uno Playground app with UI samples.
 - [Ch9](https://github.com/unoplatform/Uno.Ch9) - Channel 9 browser app.
