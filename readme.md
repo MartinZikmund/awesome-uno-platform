@@ -3,12 +3,9 @@
 		<img width="500" src="media/logo.png" alt="Awesome Uno Platform">
 	</div>
 	<br>
-	<a href="https://awesome.re">
-		<img src="https://awesome.re/badge.svg" alt="Awesome">
-	</a>
 </div>
 
-# Awesome Uno Platform
+# Awesome Uno Platform  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [Uno Platform](https://platform.uno/) is an open-source UI Platform for building single-codebase applications for Windows, iOS, Android, WebAssembly, macOS, and Linux. 
 
@@ -16,6 +13,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 ## Contents
 
+- [Contents](#contents)
 - [General](#general)
 - [Repositories](#repositories)
 - [Libraries](#libraries)
