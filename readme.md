@@ -9,7 +9,7 @@
 
 Uno Platform is an open-source UI Platform for building single-codebase .NET applications for Windows, iOS, Android, WebAssembly, macOS, and Linux. 
 
-This is a list of **awesome resources** for users of Uno Platform. **If you find the list helpful, please make sure to ⭐  star it!**
+This is a list of **awesome resources** for users of Uno Platform. **If you find the list helpful, please make sure to ⭐ star it!**
 
 ## Contents
 
@@ -35,6 +35,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 - [Uno Platform](https://github.com/unoplatform/uno) - Main repository of Uno Platform, including the full API surface of UWP/WinUI, the best place to submit issues and contribute.
 - [Uno Themes](https://github.com/unoplatform/Uno.Themes) - Material and Cupertino theme library for Uno Platform apps. In addition, includes advanced controls based on Android/iOS developer guidelines.
+- [Uno Toolkit](https://github.com/unoplatform/uno.toolkit.ui) - Multiplatform-first UI component library to speed up application development. Also provides Material and Cupertino styles for the included components.
 - [Uno Gallery](https://github.com/unoplatform/Uno.Gallery) - Controls and API gallery app. Includes live examples of most built-in controls and features along with easy to use code snippets.
 - [Uno Samples](https://github.com/unoplatform/Uno.Samples) - A growing collection of code samples and snippets.
 - [Uno Core](https://github.com/unoplatform/Uno.Core) - Provides a set of reusable utilities and helpers. Used by the main Uno Platform repository.
