@@ -7,7 +7,7 @@
 
 # Awesome Uno Platform  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Uno Platform is an open-source UI Platform for building single-codebase applications for Windows, iOS, Android, WebAssembly, macOS, and Linux. 
+Uno Platform is an open-source UI Platform for building single-codebase .NET applications for Windows, iOS, Android, WebAssembly, macOS, and Linux. 
 
 This is a list of **awesome resources** for users of Uno Platform. **If you find the list helpful, please make sure to ⭐  star it!**
 
