@@ -1,6 +1,6 @@
 <div align="center">
 	<div>
-		<img width="500" src="media/logo.png" alt="Awesome Uno Platform">
+		<img width="310" src="media/logo.png" alt="Awesome Uno Platform">
 	</div>
 	<br>
 </div>
