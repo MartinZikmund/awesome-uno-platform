@@ -15,6 +15,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 - [General](#general)
 - [Repositories](#repositories)
+- [Tools](#tools)
 - [Libraries](#libraries)
   - [Toolkits](#toolkits)
   - [MVVM](#mvvm)
@@ -43,10 +44,10 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 ## Tools
 - [Visual Studio for Uno Platform](https://marketplace.visualstudio.com/items?itemName=unoplatform.uno-platform-addin-2022)
-- [VS Code for Uno Platform Development](https://marketplace.visualstudio.com/items?itemName=unoplatform.vscode) - VS Code Extension for XAML and C# productivity boosters traditionally seen only in Visual Studio
+- [VS Code for Uno Platform Development](https://marketplace.visualstudio.com/items?itemName=unoplatform.vscode) - VS Code Extension for XAML and C# productivity boosters traditionally seen only in Visual Studio.
 - [Uno Extensions](https://github.com/unoplatform/uno.extensions) - A series of NuGet packages for commonly used functions associated with building multi-platform applications using Uno Platform.
-- [Uno Platform for Figma Plugin](https://www.figma.com/community/plugin/1045528009520465828/Uno-Platform-(Figma-to-XAML)) - Figma Plugin to generate responsive XAML from High-fidelity designs
-- [Uno Material Toolkit](https://www.figma.com/community/file/1110792522046146058/Uno-Platform-Material-Toolkit) - Figma File to use with Uno Figma Plugin
+- [Uno Platform for Figma Plugin](https://www.figma.com/community/plugin/1045528009520465828/Uno-Platform-(Figma-to-XAML)) - Figma Plugin to generate responsive XAML from High-fidelity designs.
+- [Uno Material Toolkit](https://www.figma.com/community/file/1110792522046146058/Uno-Platform-Material-Toolkit) - Figma File to use with Uno Figma Plugin.
 
 ## Libraries
 
@@ -97,7 +98,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 ## Videos
 
-- [Uno Platform's YouTube](https://www.youtube.com/@unoplatform) - Official YouTube channel of Uno Platform, includes new release highlights, live sessions, aND tutorials.
+- [Uno Platform's YouTube](https://www.youtube.com/@unoplatform) - Official YouTube channel of Uno Platform, includes new release highlights, live sessions, and tutorials.
 - [Martin Zikmund's YouTube](https://www.youtube.com/@mzikmund) - Various Uno Platform-related videos and tutorials.
 
 ## Contributing
