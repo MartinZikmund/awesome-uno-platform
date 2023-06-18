@@ -60,11 +60,9 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 - [Prism](https://prismlibrary.com/) - Framewrok for building loosely coupled, modular, maintainable, and testable XAML applications.
 - [Microsoft MVVM Toolkit](https://docs.microsoft.com/en-us/windows/communitytoolkit/mvvm/introduction) - Modern, fast, and modular MVVM library.
 
-### Elmish
-- [Elmish.Uno](https://github.com/xperiandri/Elmish.Uno) - Half-Elmish framework for apps written in F#
-
 ### Compatibility
 - [SignalR](https://docs.microsoft.com/en-us/aspnet/signalr/overview/getting-started/introduction-to-signalr) - [Cross-Platform Real-Time Communication with Uno & SignalR](https://ian.bebbs.co.uk/posts/UnoChat) - Integration example for the SignalR framework.
+- [Elmish.Uno](https://github.com/xperiandri/Elmish.Uno) - Half-Elmish framework for apps written in F#
 
 ## Blogs
 - [Official Uno Platform blog](https://platform.uno/blog/) - Lists latest release notes, tutorials, and articles by Uno Platform maintainers as well as external contributors.
