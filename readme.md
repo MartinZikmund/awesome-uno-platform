@@ -1,13 +1,19 @@
 <div align="center">
 	<div>
-		<img width="310" src="media/logo.png" alt="Awesome Uno Platform">
+		<img width="160" src="media/logo.png" alt="Uno Platform">
 	</div>
 	<br>
 </div>
 
-# Awesome Uno Platform  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
 
-Uno Platform is an open-source UI Platform for building single-codebase .NET applications for Windows, iOS, Android, WebAssembly, macOS, and Linux. 
+# Awesome Uno Platform
+
+</h1>
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+[Uno Platform](https://platform.uno/) is an open-source UI Platform for building single-codebase .NET applications for Windows, iOS, Android, WebAssembly, macOS, and Linux. 
 
 This is a list of **awesome resources** for users of Uno Platform. **If you find the list helpful, please make sure to ⭐ star it!**
 
@@ -29,7 +35,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 ## General
 
-- [Uno Platform website](https://platform.uno)
+- [Uno Platform website](https://platform.uno/platforms)
 - [Uno Platform documentation](https://docs.platform.uno/)
 
 ## Repositories
@@ -62,7 +68,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 ### Compatibility
 - [SignalR](https://docs.microsoft.com/en-us/aspnet/signalr/overview/getting-started/introduction-to-signalr) - [Cross-Platform Real-Time Communication with Uno & SignalR](https://ian.bebbs.co.uk/posts/UnoChat) - Integration example for the SignalR framework.
-- [Elmish.Uno](https://github.com/xperiandri/Elmish.Uno) - Half-Elmish framework for apps written in F#
+- [Elmish.Uno](https://github.com/xperiandri/Elmish.Uno) - Half-Elmish framework for apps written in F#.
 
 ## Blogs
 - [Official Uno Platform blog](https://platform.uno/blog/) - Lists latest release notes, tutorials, and articles by Uno Platform maintainers as well as external contributors.
@@ -96,7 +102,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 - [Introduction to open source Uno Platform](https://youtu.be/vRzTr8XYau0) - Introductory talk by Jérôme Laban about Uno Platform and what it offers.
 - [Uno Platform - Your Apps Everywhere](https://youtu.be/dX69x-D6COI) - Overview of the Uno Platform ecosystem by Martin Zikmund at NDC Porto 2022.
 - [Building Multi-Platform Applications with the Uno Platform](https://youtu.be/0zvzfCGO0gI) - Introduction to creating apps for multiple platforms and form factors, all while reusing your existing XAML and C# skill by Nick Randolph.
-- [[RU] Разработка кросс-платформенных приложений с Uno Platform и Elmish-подходом на F#](https://www.youtube.com/watch?v=ApNGATu9RSo) - Introduction to Uno, Blend and Elmish
+- [[RU] Разработка кросс-платформенных приложений с Uno Platform и Elmish-подходом на F#](https://www.youtube.com/watch?v=ApNGATu9RSo) - Introduction to Uno, Blend and Elmish.
 
 ## Videos
 
