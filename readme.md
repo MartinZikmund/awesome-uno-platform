@@ -5,7 +5,9 @@
 	<br>
 </div>
 
-# Awesome Uno Platform  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<h1 align="center">Awesome Uno Platform</h1>
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [Uno Platform](https://platform.uno/) is an open-source UI Platform for building single-codebase .NET applications for Windows, iOS, Android, WebAssembly, macOS, and Linux. 
 
