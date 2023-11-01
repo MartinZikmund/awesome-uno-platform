@@ -5,7 +5,11 @@
 	<br>
 </div>
 
-<h1 align="center">Awesome Uno Platform</h1>
+<div align="center">
+
+# Awesome Uno Platform
+
+</h1>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
