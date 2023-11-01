@@ -1,6 +1,6 @@
 <div align="center">
 	<div>
-		<img width="310" src="media/logo.png" alt="Uno Platform">
+		<img width="160" src="media/logo.png" alt="Uno Platform">
 	</div>
 	<br>
 </div>
@@ -31,7 +31,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 ## General
 
-- [Uno Platform website](https://platform.uno)
+- [Uno Platform website](https://platform.uno/platforms)
 - [Uno Platform documentation](https://docs.platform.uno/)
 
 ## Repositories
