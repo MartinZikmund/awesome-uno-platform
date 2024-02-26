@@ -109,6 +109,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 ## Videos
 
 - [Uno Platform's YouTube](https://www.youtube.com/@unoplatform) - Official YouTube channel of Uno Platform, includes new release highlights, live sessions, and tutorials.
+- [Uno Tech Bites](https://www.youtube.com/playlist?list=PLl_OlDcUya9rP_fDcFrHWV3DuP7KhQKRA) - Uno Platform development learnings in bite-sized lessons.
 - [Martin Zikmund's YouTube](https://www.youtube.com/@mzikmund) - Various Uno Platform-related videos and tutorials.
 
 ## Books
