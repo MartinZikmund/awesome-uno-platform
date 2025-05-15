@@ -85,6 +85,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 - [Windows Calculator](https://calculator.platform.uno/) - WebAssembly port of the Windows 10 Calculator app.
 - [NuGet.info](https://nuget.info/) - Modernized version of NuGet Package Explorer application.
 - [Toolkit Labs](https://toolkitlabs.dev/) - A place where new components for the Windows Community Toolkit are developed.
+- [Unexpected APIs in Uno Platform](https://unexpectedapis.uno/) - Demo app including various UI and non-UI APIs that you can use in Uno Platform.
 
 ## Open-source apps
 - [UADO](https://github.com/unoplatform/uado) - Azure DevOps backlog viewer.
