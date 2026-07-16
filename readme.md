@@ -26,6 +26,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 - [Libraries](#libraries)
   - [Toolkits](#toolkits)
   - [MVVM](#mvvm)
+  - [Dependency Injection](#dependency-injection)
   - [Compatibility](#compatibility)
 - [Blogs](#blogs)
 - [Live apps](#live-apps)
@@ -67,6 +68,9 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 - [MVx.Observable](https://www.nuget.org/packages/MVx.Observable/) - A (mostly) unopinionated, light-weight alternative to ReactiveUI provided as a library _not a framework_.
 - [Prism](https://prismlibrary.com/) - Framewrok for building loosely coupled, modular, maintainable, and testable XAML applications.
 - [Microsoft MVVM Toolkit](https://docs.microsoft.com/en-us/windows/communitytoolkit/mvvm/introduction) - Modern, fast, and modular MVVM library.
+
+### Dependency Injection
+- [Pure.DI](https://github.com/DevTeam/Pure.DI) - Generates dependency injection object graphs at compile time without requiring a runtime container by [Nikolay Pianikov](https://github.com/NikolayPianikov).
 
 ### Compatibility
 - [SignalR](https://docs.microsoft.com/en-us/aspnet/signalr/overview/getting-started/introduction-to-signalr) - [Cross-Platform Real-Time Communication with Uno & SignalR](https://ian.bebbs.co.uk/posts/UnoChat) - Integration example for the SignalR framework.
