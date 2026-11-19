@@ -72,6 +72,9 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 - [SignalR](https://docs.microsoft.com/en-us/aspnet/signalr/overview/getting-started/introduction-to-signalr) - [Cross-Platform Real-Time Communication with Uno & SignalR](https://ian.bebbs.co.uk/posts/UnoChat) - Integration example for the SignalR framework.
 - [Elmish.Uno](https://github.com/xperiandri/Elmish.Uno) - Half-Elmish framework for apps written in F#.
 
+### Media
+- [VisioForge Media Framework](https://www.visioforge.com/) - Commercial SDKs for video capture, playback, editing and streaming, with a video view control for Uno Platform.
+
 ## Blogs
 - [Official Uno Platform blog](https://platform.uno/blog/) - Lists latest release notes, tutorials, and articles by Uno Platform maintainers as well as external contributors.
 - [Jerome Laban's blog](https://jaylee.org/) - Blog of the CTO of Uno Platform.
