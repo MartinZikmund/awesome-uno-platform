@@ -18,6 +18,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
   - [MVVM](#mvvm)
   - [Dependency Injection](#dependency-injection)
   - [Compatibility](#compatibility)
+  - [Media](#media)
 - [Blogs](#blogs)
 - [Live apps](#live-apps)
 - [Open-source apps](#open-source-apps)
@@ -65,6 +66,9 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 ### Compatibility
 - [SignalR](https://docs.microsoft.com/en-us/aspnet/signalr/overview/getting-started/introduction-to-signalr) - [Cross-Platform Real-Time Communication with Uno & SignalR](https://ian.bebbs.co.uk/posts/UnoChat) - Integration example for the SignalR framework.
 - [Elmish.Uno](https://github.com/xperiandri/Elmish.Uno) - Half-Elmish framework for apps written in F#.
+
+### Media
+- [VisioForge Media Framework](https://www.visioforge.com/) - Commercial SDKs for video capture, playback, editing and streaming, including a cross-platform video view control.
 
 ## Blogs
 - [Official Uno Platform blog](https://platform.uno/blog/) - Lists latest release notes, tutorials, and articles by Uno Platform maintainers as well as external contributors.
