@@ -1,17 +1,7 @@
 <div align="center">
-	<div>
-		<img width="160" src="media/logo.png" alt="Uno Platform">
-	</div>
-	<br>
-</div>
-
-<div align="center">
-
-# Awesome Uno Platform
-
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
+	<img width="160" src="media/logo.png" alt="Uno Platform">
+	<h1>Awesome Uno Platform</h1>
+	<a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
 </div>
 
 [Uno Platform](https://platform.uno/) is an open-source UI Platform for building single-codebase .NET applications for Windows, iOS, Android, WebAssembly, macOS, and Linux. 
@@ -26,6 +16,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 - [Libraries](#libraries)
   - [Toolkits](#toolkits)
   - [MVVM](#mvvm)
+  - [Dependency Injection](#dependency-injection)
   - [Compatibility](#compatibility)
 - [Blogs](#blogs)
 - [Live apps](#live-apps)
@@ -65,8 +56,11 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 ### MVVM
 - [MVx.Observable](https://www.nuget.org/packages/MVx.Observable/) - A (mostly) unopinionated, light-weight alternative to ReactiveUI provided as a library _not a framework_.
-- [Prism](https://prismlibrary.com/) - Framewrok for building loosely coupled, modular, maintainable, and testable XAML applications.
+- [Prism](https://prismlibrary.com/) - Framework for building loosely coupled, modular, maintainable, and testable XAML applications.
 - [Microsoft MVVM Toolkit](https://docs.microsoft.com/en-us/windows/communitytoolkit/mvvm/introduction) - Modern, fast, and modular MVVM library.
+
+### Dependency Injection
+- [Pure.DI](https://github.com/DevTeam/Pure.DI) - Generates dependency injection object graphs at compile time without requiring a runtime container by [Nikolay Pianikov](https://github.com/NikolayPianikov).
 
 ### Compatibility
 - [SignalR](https://docs.microsoft.com/en-us/aspnet/signalr/overview/getting-started/introduction-to-signalr) - [Cross-Platform Real-Time Communication with Uno & SignalR](https://ian.bebbs.co.uk/posts/UnoChat) - Integration example for the SignalR framework.
@@ -84,7 +78,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 ## Live apps
 
-- [Uno Playground](https://playground.platform.uno) - App which allows you to experiment with Uno Platform C# and XAML right from the browser.
+- [Uno Playground](https://playground.platform.uno) - Experiment with C# and XAML right from the browser.
 - [Windows Calculator](https://calculator.platform.uno/) - WebAssembly port of the Windows 10 Calculator app.
 - [NuGet.info](https://nuget.info/) - Modernized version of NuGet Package Explorer application.
 - [Toolkit Labs](https://toolkitlabs.dev/) - A place where new components for the Windows Community Toolkit are developed.
@@ -92,7 +86,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 ## Open-source apps
 - [UADO](https://github.com/unoplatform/uado) - Azure DevOps backlog viewer.
-- [Uno Playground](https://github.com/unoplatform/Uno.Playground) - Uno Playground app with UI samples.
+- [Uno Playground](https://github.com/unoplatform/Uno.Playground) - Source code of the in-browser playground, with UI samples.
 - [Uno Calculator](https://github.com/unoplatform/calculator) - Port of the Windows 10 Calculator.
 - [NuGet Package Explorer](https://github.com/NuGetPackageExplorer/NuGetPackageExplorer/tree/main/Uno) - Source code of the Uno Platform version of NuGet Package Explorer.
 - [Ch9](https://github.com/unoplatform/Uno.Ch9) - Channel 9 browser app.
